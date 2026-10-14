@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "notes": "Nova različica programa Bilko Računovodstvo (0.1.0).",
+  "pub_date": "2026-10-14T11:08:23.201Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURElzVWUxMHMwZzFDeVduS2ZPWlhxWWpBUHBMSm1nTUY0QUNMNklnZ1NZVFA1REZ0QlNnTlFSYWNoem9QU3ZOWVl4UHRqV2hMZEwxRlpCR1VBcngyZkNkMzVmVWtwenc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTc2MDgwCWZpbGU6Qmlsa28gUmHEjXVub3ZvZHN0dm9fMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCm16eEhIRUVQdktuQTR6S0NLSWFKUU1ST3VkMFREOGIxQ01ldml1SkplU2FjejVjTHpZQWJQR2RjNFlHT09QcVZGSG9vbTBDMURZVkoxWWEyeGtTZ0N3PT0K",
+      "url": "https://raw.githubusercontent.com/Lovrokos99/bilko-desktop-releases/main/v0.1.0/Bilko-Racunovodstvo_0.1.0_x64-setup.exe"
+    }
+  }
+}
